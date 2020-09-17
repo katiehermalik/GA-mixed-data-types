@@ -36,11 +36,28 @@ const infoRoster = [{
   name: 'Pam',
   location: 'Stamford',
   favTvShows: ['Breaking Bad', 'Game of Thrones'],
-  }
+  },
   {
   name: 'Dwight',
   location: 'Stamford',
   favTvShows: ['Sherlock Holmes', 'Survivor'],
   }
 ]
+
+// 2 // ------------------------- Take it Easy //
+
+// 1
+const rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
+// 2
+console.log(rainbow[4]);
+// 3
+const katie = {
+  favoriteFood: 'truffle gnocchi',
+  hobby: 'running',
+  location: 'Los Angeles',
+  favoriteDataType: 'Array',
+};
+// 4
+console.log(katie.hobby);
+
 
